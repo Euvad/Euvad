@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python 
 - **Programming Languages:** Python, JavaScript, HTML, CSS, C
 - **Frameworks:** Django, React...
 - **Databases:** MySQL, MongoDB...
-- **Tools and Technologies:** Git, Docker, Linux, RESTful APIs
+- **Tools and Technologies:** Git, Linux, RESTful APIs
 
 ## 🔭 Projects
 
