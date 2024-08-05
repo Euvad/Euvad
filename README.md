@@ -35,11 +35,6 @@ A platform for booking vacation rentals, featuring property listings, search fun
 - Data analysis with Python
 - Reverse engineering in my free time
 
-## 🎓 Achievements
-
-- [Certification Name/Link] - Brief description of the certification.
-- [Open Source Contribution] - Brief description and link to the project/repo.
-
 ## 📫 Contact
 
 - **Email:** [vad.studio@icloud.com](mailto:vad.studio@icloud.com)
