@@ -6,10 +6,17 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in Python 
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS, C
-- **Frameworks:** Django, React...
-- **Databases:** MySQL, MongoDB...
-- **Tools and Technologies:** Git, Linux, RESTful APIs
+- **Programming Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![C](https://img.shields.io/badge/-C-00599C)
+
+- **Frameworks and Libraries:**  
+  ![Django](https://img.shields.io/badge/-Django-092E20) ![React](https://img.shields.io/badge/-React-61DAFB)
+
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
+
+- **Tools and Technologies:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6F00)
 
 ## 🔭 Projects
 
@@ -26,7 +33,12 @@ A platform for booking vacation rentals, featuring property listings, search fun
 
 - Web application development with Django and React
 - Data analysis with Python
-- Reverse engineering in my free time!
+- Reverse engineering in my free time
+
+## 🎓 Achievements
+
+- [Certification Name/Link] - Brief description of the certification.
+- [Open Source Contribution] - Brief description and link to the project/repo.
 
 ## 📫 Contact
 
