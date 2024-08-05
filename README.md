@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vadim⁴²
+# 👋 Hi, I'm *Vadim
 
 ![GitHub followers](https://img.shields.io/github/followers/Euvad?style=social) ![GitHub stars](https://img.shields.io/github/stars/Euvad?style=social)
 
